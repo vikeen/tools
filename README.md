@@ -8,6 +8,7 @@ This is a repository to catalog useful tools that I use for software development
 
 ## Terminal
 
+1. iterm2 - https://www.iterm2.com/downloads.html
 1. shell - https://ohmyz.sh/
 1. vim color theme - https://github.com/altercation/vim-colors-solarized
 
